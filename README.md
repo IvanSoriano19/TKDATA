@@ -6,7 +6,7 @@ Este es el proyecto de fin de DAM
 # Tecnologías
 
 * **HTML**
-* **CSS con Boostrap**
+* **CSS con Bootstrap**
 * **JavaScript**
 * **MongoDB**
 
