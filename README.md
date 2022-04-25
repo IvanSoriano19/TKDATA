@@ -3,7 +3,7 @@
 Proyecto hecho por Ivan Soriano,
 Este es el proyecto de fin de DAM
 
-## Tecnologías
+# Tecnologías
 
 * **HTML**
 * **CSS con Boostrap**
