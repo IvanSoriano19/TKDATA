@@ -8,7 +8,7 @@ Este es el proyecto de fin de DAM
 * **HTML**
 * **CSS con Boostrap**
 * **JavaScript**
-* **MySQL**
+* **MongoDB**
 
 ## Control De Versiones 
 
