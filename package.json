@@ -2,24 +2,13 @@
   "name": "tkdata",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
-  "dependencies": {
-    "electron": "^18.1.0",
-    "mongoose": "^6.3.1"
-  },
-  "devDependencies": {},
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IvanSoriano19/TKDATA.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IvanSoriano19/TKDATA/issues"
-  },
-  "homepage": "https://github.com/IvanSoriano19/TKDATA#readme"
+  "dependencies": {
+    "electron": "^18.1.0"
+  }
 }

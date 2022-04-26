@@ -1,8 +1,5 @@
-const { createWindow } = require('./main');
-const { app } = require('electron');
+const btn = document.getElementById('boton');
 
-const btn = document.querySelector('toggle-btn');
-
-btn.addEventListener('click', function () {
+btn.addEventListener('click',()=>{
     document.getElementById('sidebar').classList.toggle('active')
 });
