@@ -1,0 +1,16 @@
+#formulario{
+    align-content: center;
+    margin: 50px 220px auto;
+    background-color: aqua;
+    border: 10px;
+}
+
+*{
+    background-color: blueviolet;
+}
+
+#header {
+    margin-top: 0;
+    position: fixed;
+    height: 100%;
+}
